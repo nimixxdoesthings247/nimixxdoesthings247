@@ -1,4 +1,4 @@
-<h1 align="center">HEYY !! I'MM Nimesh Munda</h1>
+<h1 align="center">HEYY !! I'MM Nimesh</h1>
 <h3 align="center">cool MERN stack developer from Ranchi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimixxdoesthings247&label=Profile%20views&color=0e75b6&style=flat" alt="nimixxdoesthings247" /> </p>
